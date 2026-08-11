@@ -1,3 +1,6 @@
+//Time Complexity:O(N)
+// O(N) (input)+O(N) (DP fill)=O(N)
+// Space Complexity:O(N)
 #include<bits/stdc++.h>
 using namespace std;
 
