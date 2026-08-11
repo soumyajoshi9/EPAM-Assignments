@@ -1,3 +1,6 @@
+//Time Complexity:O(N log N)
+// O(N) (input)+O(NlogN) (sort)+O(N) (greedy scan)=O(N log N)
+// Space Complexity:O(N)
 #include<bits/stdc++.h>
 using namespace std;
 
