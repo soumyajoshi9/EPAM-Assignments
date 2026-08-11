@@ -1,3 +1,6 @@
+//Time Complexity:O(N)
+// O(N) (nodes)+O(N) (edge traversals)=O(N)
+// Space Complexity:O(N)
 #include<bits/stdc++.h>
 using namespace std;
 
