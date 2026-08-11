@@ -1,3 +1,6 @@
+//Time Complexity:O(N+M)
+// O(N) (BFS nodes)+O(M) (BFS edges)+O(N) (counting loop)=O(N+M)
+// Space Complexity:O(N+M)
 #include<bits/stdc++.h>
 using namespace std;
 
